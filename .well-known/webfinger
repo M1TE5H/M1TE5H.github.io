@@ -1,0 +1,28 @@
+{
+  "subject": "acct:M1TE5H@fosstodon.org",
+  "aliases": [
+    "https://fosstodon.org/@M1TE5H",
+    "https://fosstodon.org/users/M1TE5H"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://fosstodon.org/@M1TE5H"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://fosstodon.org/users/M1TE5H"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://fosstodon.org/authorize_interaction?uri={uri}"
+    },
+    {
+      "rel": "http://webfinger.net/rel/avatar",
+      "type": "image/png",
+      "href": "https://cdn.fosstodon.org/accounts/avatars/109/813/187/762/508/061/original/d037a4cc15e6dfed.png"
+    }
+  ]
+}
